@@ -1,0 +1,20 @@
+#inputFile{
+    display: none;
+}
+.labelInputFile{
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    background-color: lightblue;
+    border-radius: 100%;
+    padding: 1rem;
+    box-shadow: 0 0 10px -1px gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.labelInputFile img{
+    width: 4rem;
+    height: 4rem;
+}
